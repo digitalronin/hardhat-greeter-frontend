@@ -6,7 +6,7 @@ endif
 
 
 .PHONY: server
-server: guard-GREETER_CONTRACT_ADDRESS cmd-exists-npm
+server: guard-REACT_APP_GREETER_CONTRACT_ADDRESS cmd-exists-npm
 	npm start
 
 # npm run build
