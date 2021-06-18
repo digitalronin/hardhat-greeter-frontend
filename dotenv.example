@@ -1,0 +1,4 @@
+# Don't put comments inline or your env. var. value will have a trailing space
+
+# localhost
+GREETER_CONTRACT_ADDRESS=0xCONTRACTADDRESS
